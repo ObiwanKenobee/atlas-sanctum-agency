@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Human Agency Commons",
+  "description": "Civilizational infrastructure for communities to govern, evaluate, consent, challenge, and refuse artificial intelligence systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
